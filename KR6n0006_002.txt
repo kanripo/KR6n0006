@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:09.955568
+#+DATE: 2015-08-30 20:55:11.658702
 #+TITLE: 決定藏論
 #+PROPERTY: CBETA_ID T30n1584
 #+PROPERTY: ID KR6n0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1584
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0006_T_000-1018b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0006_T_002-1024a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《決定藏論》卷中¶
+《決定藏論》卷中¶
 ¶
 梁天竺三藏真諦譯¶
 心地品之二¶
@@ -62,8 +61,7 @@
 色聲高廣事業似分。有諸眾生善惡似分各¶
 有似分。如殺生人共諸殺生。乃至邪見共邪¶
 見人。如離殺人共諸離殺。乃至正見共正見¶
-人。須陀洹人共須陀洹。乃至辟支佛其辟支¶
-佛。菩薩共菩薩。佛共佛。名相似分。一切眾生¶
+人。須陀洹人共須陀洹。乃至辟支佛其辟支佛。菩薩共菩薩。佛共佛。名相似分。一切眾生¶
 皆是假名。云何眾生似分而是實法。凡夫性¶
 者。三界見苦所斷煩惱種子未斷名凡夫性。¶
 又凡夫性復有四種。一者無涅槃性。二者聲¶

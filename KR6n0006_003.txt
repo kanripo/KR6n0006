@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:09.981504
+#+DATE: 2015-08-30 20:55:11.678701
 #+TITLE: 決定藏論
 #+PROPERTY: CBETA_ID T30n1584
 #+PROPERTY: ID KR6n0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1584
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0006_T_000-1018b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0006_T_003-1029a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《決定藏論》卷下¶
+《決定藏論》卷下¶
 ¶
 梁天竺三藏真諦譯¶
 心地品之三¶
