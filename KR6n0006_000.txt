@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 決定藏論
+#+DATE: 2015-08-30 20:55:10.197669
+#+PROPERTY: JUAN 0
