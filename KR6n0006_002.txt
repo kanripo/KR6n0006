@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:09.955568
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:37
 #+TITLE: 決定藏論
 #+PROPERTY: CBETA_ID T30n1584
 #+PROPERTY: ID KR6n0006
